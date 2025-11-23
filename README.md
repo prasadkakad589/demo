@@ -1,2 +1,2 @@
 # demo
-this is temporary demo repository
+this is temporary demo repository.
